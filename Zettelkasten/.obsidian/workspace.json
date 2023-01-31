@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb59a5b56ab8fb59",
+  "active": "9496911711ce9247",
   "lastOpenFiles": [
     "hey.md"
   ]
