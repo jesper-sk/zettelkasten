@@ -1,4 +1,4 @@
-When a symbol is less or unambiguous, a state cloud of all its exemplars' contextual embeddings appears to be well-formed.
+When a symbol is ambiguous to a lesser extent or unambiguous, a state cloud of all its exemplars' contextual embeddings appears to be well-formed.
 
 This means that this state cloud can be accurately described by means of a high-dimensional ellipsoid, and, as [[a-conceptor-represents-a-higher-dimensional-ellipsoid]], by conceptors.
 
