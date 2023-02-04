@@ -11,8 +11,12 @@
             "id": "bfb0019644b26e05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/WordNet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/WordNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/WordNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/WordNet.md"
+              }
             }
           }
         ]
@@ -141,15 +149,15 @@
   },
   "active": "bfb0019644b26e05",
   "lastOpenFiles": [
+    "Inbox/Clustering methods.md",
+    "Inbox/question-different-lexical-graph structures.md",
+    "Inbox/todo-wordnet-intro-refernce.md",
     "componential-semantics-definition.md",
-    "question-different-lexical-graph structures.md",
-    "todo-wordnet-intro-refernce.md",
     "handling-word-polysemy-is-necessary-for-extracting-knowledge-structure.md",
     "polysemy-definition.md",
     "wordnet-and-its-maintenance.md",
     "wordnet-defines-an-ontology.md",
     "relational-semantics-definition.md",
-    "todo-wordnet-then-and-now.md",
-    "Reading notes/@bricmanNestedStateClouds2022.md"
+    "Inbox/todo-wordnet-then-and-now.md"
   ]
 }
