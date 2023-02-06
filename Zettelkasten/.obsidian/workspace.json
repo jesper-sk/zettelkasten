@@ -11,24 +11,15 @@
             "id": "904081adbc0d18b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5b23cffa73b495e9",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Inbox/WordNet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -58,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Inbox/WordNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Inbox/WordNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Inbox/WordNet.md"
               }
             }
           }
@@ -143,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b23cffa73b495e9",
+  "active": "904081adbc0d18b6",
   "lastOpenFiles": [
-    "Zettels/words-can-represent-multiple-concepts.md",
-    "Zettels/a-conceptor-represents-a-higher-dimensional-ellipsoid.md",
-    "Inbox/test.md",
-    "inbox/test.md",
-    "Zettels/conceptor-definition.md",
-    "Inbox/WordNet.md",
-    "Reading notes/@liuCorrectingCommonDiscourse2018.md",
-    "Reading notes/@bricmanNestedStateClouds2022.md",
+    "Zettels/wordnet-defines-an-ontology.md",
+    "Inbox/todo-wordnet-then-and-now.md",
+    "Zettels/wordnet-and-its-maintenance.md",
+    "Inbox/todo-wordnet-intro-refernce.md",
     "Zettels/state-cloud-of-ambiguous-symbol-is-ill-formed.md",
-    "Zettels/unambiguous-state-clouds-appear-well-formed.md"
+    "Zettels/relational-semantics-definition.md",
+    "Zettels/polysemy-definition.md",
+    "Zettels/handling-word-polysemy-is-necessary-for-extracting-knowledge-structure.md",
+    "Zettels/componential-semantics-definition.md",
+    "Zettels/a-conceptor-represents-a-higher-dimensional-ellipsoid.md"
   ]
 }

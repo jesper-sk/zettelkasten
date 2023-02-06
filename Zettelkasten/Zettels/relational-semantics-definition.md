@@ -7,4 +7,4 @@ In relational semantics, the meaning of a word sense/symbol is defined in terms 
 
 Opposed to [[componential-semantics-definition]]
 
-[[todo-wordnet-intro-refernce]]
+[[@millerIntroductionWordNetOnline1990]]

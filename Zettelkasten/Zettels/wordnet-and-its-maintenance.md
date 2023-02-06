@@ -2,4 +2,4 @@ Doesn't WordNet and its derivatives EuroWordNet et al. have to be actively maint
 
 As language is dynamic, words changes senses, words are added, etc etc
 
-[[todo-wordnet-then-and-now]]
+[[@millerWordNetThenNow2007]]

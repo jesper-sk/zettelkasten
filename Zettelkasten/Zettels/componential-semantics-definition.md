@@ -2,4 +2,4 @@ In componential semantics, the meaning of a word sense/symbol is defined in term
 
 Opposed to [[relational-semantics-definition]]
 
-[[todo-wordnet-intro-refernce]]
+[[@millerIntroductionWordNetOnline1990]]

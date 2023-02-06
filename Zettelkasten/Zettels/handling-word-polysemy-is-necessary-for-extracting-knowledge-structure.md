@@ -6,5 +6,5 @@ Impact is twofold:
 	- and [[unambiguous-state-clouds-appear-well-formed]]
 - Interpretability of resulting knowledge structure / ontology / wordnet
 
-[[todo-wordnet-intro-refernce]]
-[[todo-wordnet-then-and-now]]
+[[@millerIntroductionWordNetOnline1990]]
+[[@millerWordNetThenNow2007]]
