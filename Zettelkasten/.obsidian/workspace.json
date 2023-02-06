@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/WordNet.md",
+                "file": "Zettels/wordnet-defines-an-ontology.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/WordNet.md",
+                "file": "Zettels/wordnet-defines-an-ontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/WordNet.md",
+                "file": "Zettels/wordnet-defines-an-ontology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/WordNet.md"
+                "file": "Zettels/wordnet-defines-an-ontology.md"
               }
             }
           }
@@ -147,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9496911711ce9247",
+  "active": "904081adbc0d18b6",
   "lastOpenFiles": [
+    "Reading notes/@millerWordNetElectronicLexical1998.md",
     "Zettels/wordnet-defines-an-ontology.md",
+    "Reading notes/@millerIntroductionWordNetOnline1990.md",
+    "Inbox/WordNet.md",
     "Inbox/todo-wordnet-then-and-now.md",
     "Zettels/wordnet-and-its-maintenance.md",
     "Inbox/todo-wordnet-intro-refernce.md",
     "Zettels/state-cloud-of-ambiguous-symbol-is-ill-formed.md",
     "Zettels/relational-semantics-definition.md",
-    "Zettels/polysemy-definition.md",
-    "Zettels/handling-word-polysemy-is-necessary-for-extracting-knowledge-structure.md",
-    "Zettels/componential-semantics-definition.md",
-    "Zettels/a-conceptor-represents-a-higher-dimensional-ellipsoid.md"
+    "Zettels/polysemy-definition.md"
   ]
 }
