@@ -7,5 +7,22 @@
       ],
       "key": "B"
     }
+  ],
+  "terminal:open-terminal-integrated-root": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "terminal:open-terminal-external-root": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
   ]
 }

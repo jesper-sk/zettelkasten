@@ -1,0 +1,33 @@
+{
+  "addToCommand": true,
+  "addToContextMenu": true,
+  "enableWindowsConhostWorkaround": true,
+  "errorNoticeTimeout": 0,
+  "executables": {
+    "darwin": {
+      "extArgs": [
+        "$PWD"
+      ],
+      "extExe": "/System/Applications/Utilities/Terminal.app/Contents/macOS/Terminal",
+      "intArgs": [],
+      "intExe": "/bin/zsh"
+    },
+    "linux": {
+      "extArgs": [],
+      "extExe": "fish",
+      "intArgs": [],
+      "intExe": "fish"
+    },
+    "win32": {
+      "extArgs": [],
+      "extExe": "C:\\Windows\\System32\\cmd.exe",
+      "intArgs": [],
+      "intExe": "C:\\Windows\\System32\\cmd.exe"
+    }
+  },
+  "hideStatusBar": "focused",
+  "language": "",
+  "noticeTimeout": 5,
+  "preferredRenderer": "webgl",
+  "pythonExecutable": ""
+}
